@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Pygame / model outputs
+model/*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / plots
+plots/
+*.log

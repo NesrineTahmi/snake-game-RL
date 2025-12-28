@@ -1,0 +1,4 @@
+torch>=2.0
+pygame>=2.0
+numpy
+matplotlib
